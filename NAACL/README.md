@@ -5,7 +5,7 @@ Main papers to be cited:
 @inproceedings{su2018natural,
     title={Natural Language Generation by Hierarchical Decoding with Linguistic Patterns},
     author={Shang-Yu Su, Kai-Ling Lo, Yi-Ting Yeh, and Yun-Nung Chen},
-    booktitle={Proceedings of NAACL-HLT},
+    booktitle={Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
     year={2018}
 }
 ```
